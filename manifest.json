@@ -1,0 +1,12 @@
+ {
+  "name": "Extractor XV",
+  "version": "1.0.0",
+  "description": "Script específico para extraer video en alta calidad.",
+  "author": "lol67",
+  "scripts": [
+    {
+      "match": "https://www.xvideos.com/video*",
+      "file": "index.js"
+    }
+  ]
+}
