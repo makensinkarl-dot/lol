@@ -1,8 +1,9 @@
 {
-  "name": "Extractor XV",
-  "version": "1.0.0",
-  "description": "Script específico para extraer video en alta calidad.",
+  "name": "extractor-xv",
   "author": "lol67",
+  "title": "Extractor XV",
+  "description": "Script específico para extraer video en alta calidad.",
+  "version": "1.0.0",
   "scripts": [
     {
       "event": "onResolve",
